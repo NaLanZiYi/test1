@@ -1,2 +1,3 @@
 
-Git is very useful!
+Git is a very useful!
+And I am learning it!
