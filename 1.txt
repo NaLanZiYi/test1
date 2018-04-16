@@ -4,5 +4,9 @@ And I am learning it!
 Edited by branch dev...
 
 haha, mastes
+<<<<<<< HEAD
 haha, dev1
 werewrwerwerwewe
+=======
+haha, dev1------
+>>>>>>> dev1
